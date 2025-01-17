@@ -1,4 +1,3 @@
-# DevOps_Learning
 # DevOps Learning Repository
 
 ## 📚 Overview
