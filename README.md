@@ -67,4 +67,4 @@ list of essential DevOps tools
 - [Kubernetes Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [Linux Command Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 
-** I'll be updating this document 
+** I'll be updating this document **
